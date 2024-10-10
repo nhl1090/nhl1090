@@ -21,9 +21,13 @@ I am passionate about learning new technology, solving complex problems, and hel
 - Open source applications that benefit technologically disadvantaged communities
 
 
+## 📫 How to reach me:
+- https://calendly.com/neilhernandez
+
+
 <!--
 -  I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - ⚡ Fun fact: ...
 -->
