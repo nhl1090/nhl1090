@@ -1,10 +1,10 @@
-## Welcome! 👋
+## Welcome to my Github profile! 👋
 This is a collection of repositories I've made during my coding bootcamp. I am passionate about learning new technology and solving new problems.
 
 
 ## 🔭 I’m currently working on:
 - Final project for my coding bootcamp
-- 
+- Minor debugs and enhancing exhisting repositories/projects
 
 
 ## 🌱 I’m currently learning:
