@@ -1,25 +1,12 @@
 ## Welcome to my Github profile
-This is a collection of repositories I've made during my coding bootcamp.
+I am a dedicated problem solver who likes helping others.
 
-I am passionate about learning new technology, solving complex problems, and helping others.
+This is a collection of repositories I've made during over time.
 
 ## 🔭 I’m currently working on:
-- Minor debugs and enhancing exhisting repositories/projects
-
-## 🌱 I’m currently learning:
-- React
-- JavaScript
+- Custom applications to help clients with their data management needs
+- Personal ventures
 
 ## 🧐 I’m looking to collaborate on:
-- Practical applications that can enhance day-to-day project operations
-- Creating and publishing APIs
-- Open source applications that benefit technologically disadvantaged communities
-
-
-
-<!--
--  I’m looking for help with ...
-- 💬 Ask me about ...
-
-- ⚡ Fun fact: ...
--->
+- Enhancing data fludity via SQL server
+- Any fun project ideas!
